@@ -1,0 +1,5 @@
+OS=win
+
+browser=Chrome
+
+applicationURL=https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
